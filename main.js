@@ -1,3 +1,5 @@
+// Snail_in_the_well_with_js
+
 function main() {
     var depth = 42; // Change this
     
